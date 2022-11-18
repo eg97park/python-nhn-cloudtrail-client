@@ -1,2 +1,2 @@
 # python-nhn-cloudtrail-client
-NHN Cloud CloudTrail API Client.
+Super simple NHN Cloud CloudTrail API Client.
